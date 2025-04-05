@@ -44,7 +44,6 @@ body {
 
   .card-header {
     display: flex;
-    align-items: center;
     gap: 16px;  
   
     .user-image {
